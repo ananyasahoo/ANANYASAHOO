@@ -1,6 +1,6 @@
 ### Hello Coder 👋
 ### I'm Ananya Priyadarshini 🤩
-
+[![HitCount](http://hits.dwyl.com/ananyasahoo/ananyasahoo.svg)](http://hits.dwyl.com/ananyasahoo/ananyasahoo)
 Hello Coders!! I m here to build my skills😎.
 Here are some ideas to get you started:
 
