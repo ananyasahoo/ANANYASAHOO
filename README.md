@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She/her👩
 - ⚡ Fun fact: ... Code, Sleep, Eat & Repeat😜
 -->
-### Connect With me
-Instagram - @bloosm_honeypie
