@@ -11,12 +11,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Python✌
 - 🤔 I’m looking for help with ...Machine Learning❤
 - 💬 Ask me about ...Anything😁
-- 📫 How to reach me: ...Mail me priyadarshiniananya776@gmail.com😊
+- 📫 How to reach me: ...Available For you😊
 - 😄 Pronouns: ... She/her👩
 - ⚡ Fun fact: ... Code, Sleep, Eat & Repeat😜
 -->
 
 ### Connect With Me🤩
+
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ananya-priyadarshini-992509149/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/priyada43675964) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/bloosm_honeypie/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/ananyasahoo) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/priyadarshinian2) |[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:priyadarshiniananya776@gai.com)
 
